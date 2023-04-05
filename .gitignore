@@ -3,3 +3,5 @@ images/
 saved_models/
 saved_weights/
 Mutually_Exclusive_Images/
+fine_tuned_weights/
+saved_weights_MLBCE/
